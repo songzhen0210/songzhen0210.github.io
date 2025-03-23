@@ -30,6 +30,7 @@ Currently, I am collaborating with Prof. Lizhen Cui \([崔立真](https://facult
 - *2025.02*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2025 [CCF-A]. 
 - *2024.06*: &nbsp;🎉🎉 We have one paper accepted by VLDB 2024 [CCF-A].
 - *2023.08*: &nbsp;🎉🎉 We have one paper accepted by SIGMOD 2024 [CCF-A].
+- *2021.11*: &nbsp;🎉🎉 We have one paper accepted by ICDE 2022 [CCF-A].
 
 # 📖 Educations
 - *2019.09 - 2025.01*, Computer Science and Technology, Doctoral Degree, Northeastern University, Shenyang, China.
