@@ -44,11 +44,9 @@ Currently, I am collaborating with Prof. Lizhen Cui \([崔立真](https://facult
 [SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training](https://2025.sigmod.org/sigmod_papers.shtml)
 
 **Zhen Song**, Yu Gu, Tianyi Li, Yushuai Li, Qing Sun, Yanfeng Zhang, Christian S. Jensen, Ge Yu
+</div>
+</div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
