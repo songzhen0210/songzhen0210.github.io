@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Zhen Song (宋振), Associate Professor at Shandong University. I received my Bachelor's degree in Computer Science and Technology from Northeastern University in 2017, followed by a Master's degree in Computer Software and Theory in 2019. I then pursued my Ph.D. in Computer Science and Technology at Northeastern University under the supervision of Prof. Yu Gu ([谷峪]([https://neugy123.github.io/])) in the research group led by Prof. Ge Yu (于戈) and obtained my doctoral degree in 2025. 
+Zhen Song (宋振), Associate Professor at Shandong University. I received my Bachelor's degree in Computer Science and Technology from Northeastern University in 2017, followed by a Master's degree in Computer Software and Theory in 2019. I then pursued my Ph.D. in Computer Science and Technology at Northeastern University under the supervision of Prof. Yu Gu ([谷峪](https://neugy123.github.io/)) in the research group led by Prof. Ge Yu (于戈) and obtained my doctoral degree in 2025. 
 
 From November 2022 to November 2023, I was a visiting researcher at Aalborg University, Denmark, where I worked under the supervision of Prof. Tianyi Li (李天义) in the research group of Prof. Christian S. Jensen. 
 
@@ -38,10 +38,10 @@ Currently, I am collaborating with Prof. Lizhen Cui (崔立真) at Shandong Univ
 - *2013.09 - 2017.06*, Computer Science and Technology, Bachelor's Degree, Northeastern University, Shenyang, China.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/sigmod2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2025</div><img src='images/sigmod2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://2025.sigmod.org/sigmod_papers.shtml))
+[SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training](https://2025.sigmod.org/sigmod_papers.shtml)
 
 **Zhen Song**, Yu Gu, Tianyi Li, Yushuai Li, Qing Sun, Yanfeng Zhang, Christian S. Jensen, Ge Yu
 
