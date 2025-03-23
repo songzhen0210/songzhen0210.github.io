@@ -38,7 +38,7 @@ Currently, I am collaborating with Prof. Lizhen Cui \([崔立真](https://facult
 - *2013.09 - 2017.06*, Computer Science and Technology, Bachelor's Degree, Northeastern University, Shenyang, China.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2025</div><img src='images/sigmod2025.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2025</div><img src='images/sigmod2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training](https://2025.sigmod.org/sigmod_papers.shtml)
