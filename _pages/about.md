@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-{% if site.google_scholar_stats_use_cdn %} {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %} {% else %} {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %} {% endif %} {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 Zhen Song (宋振), Associate Professor at Shandong University. I received my Bachelor's degree in Computer Science and Technology from Northeastern University in 2017, followed by a Master's degree in Computer Software and Theory in 2019. I then pursued my Ph.D. in Computer Science and Technology at Northeastern University under the supervision of Prof. Yu Gu (谷峪) in the research group led by Prof. Ge Yu (于戈) and obtained my doctoral degree in 2025. From November 2022 to November 2023, I was a visiting researcher at Aalborg University, Denmark, where I worked under the supervision of Prof. Tianyi Li (李天义) in the research group of Prof. Christian S. Jensen. Currently, I am collaborating with Prof. Lizhen Cui (崔立真) at Shandong University. My research interests include distributed computing, graph data management, and artificial intelligence training.
 
