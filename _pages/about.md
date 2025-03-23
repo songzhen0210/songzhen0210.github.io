@@ -56,9 +56,9 @@ Currently, I am collaborating with Prof. Lizhen Cui \([崔立真](https://facult
 
 - [EC-Graph: A Distributed Graph Neural Network System with Error-Compensated Compression](https://jianzhongqi.github.io/assets/pdf/ICDE2022_ECGraph.pdf). **Zhen Song**, Yu Gu, Jianzhong Qi, Zhigang Wang, Ge Yu. **ICDE 2022**. <span style="color: red;">[CCF-A]</span>.
 
-- [DRPS: efficient disk-resident parameter servers for distributed machine learning](https://link.springer.com/article/10.1007/s11704-021-0445-2). **Zhen Song**, Yu Gu, Zhigang Wang, Ge Yu. **FCS 2022**. <span style="color: red;">[CCF-B]</span>.
+- [DRPS: efficient disk-resident parameter servers for distributed machine learning](https://link.springer.com/article/10.1007/s11704-021-0445-2). **Zhen Song**, Yu Gu, Zhigang Wang, Ge Yu. **Frontiers of Computer Science (FCS) 2022**. <span style="color: red;">[CCF-B]</span>.
 
-- [Distributed Hypergraph Processing Using Intersection Graphs](https://ieeexplore.ieee.org/abstract/document/9187569). Yu Gu, Kaiqiang Yu, **Zhen Song**, Jianzhong Qi, Zhigang Wang, Ge Yu, Rui Zhang. **TKDE 2022**. <span style="color: red;">[CCF-A]</span>.
+- [Distributed Hypergraph Processing Using Intersection Graphs](https://ieeexplore.ieee.org/abstract/document/9187569). Yu Gu, Kaiqiang Yu, **Zhen Song**, Jianzhong Qi, Zhigang Wang, Ge Yu, Rui Zhang. **IEEE Transactions on Knowledge and Data Engineering 2022**. <span style="color: red;">[CCF-A]</span>.
 
 - [IncreGNN: Incremental Graph Neural Network Learning by Considering Node and Parameter Importance](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_59). Di Wei, Yu Gu, Yumeng Song, **Zhen Song**, Fangfang Li, Ge Yu. **Dasfaa 2022**. <span style="color: red;">[CCF-B]</span>.
 
