@@ -41,9 +41,18 @@ Currently, I am collaborating with Prof. Lizhen Cui \([崔立真](https://facult
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2025</div><img src='images/sigmod2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training](https://2025.sigmod.org/sigmod_papers.shtml)
+[SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training](https://2025.sigmod.org/sigmod_papers.shtml) <font color=#FF0000 >[CCF A]</font>
 
 **Zhen Song**, Yu Gu, Tianyi Li, Yushuai Li, Qing Sun, Yanfeng Zhang, Christian S. Jensen, Ge Yu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2024</div><img src='images/vldb2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DynaHB: A Communication-Avoiding Asynchronous Distributed Framework with Hybrid Batches for Dynamic GNN Training]([https://2025.sigmod.org/sigmod_papers.shtml](https://www.vldb.org/pvldb/vol17/p3388-song.pdf)) <font color=#FF0000 >[CCF A]</font>
+
+**Zhen Song**, Yu Gu, Qing Sun, Tianyi Li, Yanfeng Zhang, Yushuai Li, Christian S. Jensen, Ge Yu
 </div>
 </div>
 
