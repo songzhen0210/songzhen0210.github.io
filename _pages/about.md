@@ -21,6 +21,7 @@ redirect_from:
 
 Zhen Song (宋振), Associate Professor at Shandong University. I received my Bachelor's degree in Computer Science and Technology from Northeastern University in 2017, followed by a Master's degree in Computer Software and Theory in 2019. I then pursued my Ph.D. in Computer Science and Technology at Northeastern University under the supervision of Prof. Yu Gu (谷峪) in the research group led by Prof. Ge Yu (于戈) and obtained my doctoral degree in 2025. From November 2022 to November 2023, I was a visiting researcher at Aalborg University, Denmark, where I worked under the supervision of Prof. Tianyi Li (李天义) in the research group of Prof. Christian S. Jensen. Currently, I am collaborating with Prof. Lizhen Cui (崔立真) at Shandong University. My research interests include distributed computing, graph data management, and artificial intelligence training.
 
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
