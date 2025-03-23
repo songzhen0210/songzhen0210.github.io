@@ -56,15 +56,13 @@ Currently, I am collaborating with Prof. Lizhen Cui \([崔立真](https://facult
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2024</div></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ADGNN: Towards Scalable GNN Training with Aggregation-Difference Aware Sampling](https://dl.acm.org/doi/10.1145/3626716), <span style="color: red;">[CCF-A]</span>.
+- [ADGNN: Towards Scalable GNN Training with Aggregation-Difference Aware Sampling](https://dl.acm.org/doi/10.1145/3626716), SIGMOD 2024, <span style="color: red;">[CCF-A]</span>.
 
 **Zhen Song**, Yu Gu, Tianyi Li, Qing Sun, Yanfeng Zhang, Christian S. Jensen, Ge Yu
-</div>
-</div>
+
+- [EC-Graph: A Distributed Graph Neural Network System with Error-Compensated Compression](https://jianzhongqi.github.io/assets/pdf/ICDE2022_ECGraph.pdf), ICDE 2022, <span style="color: red;">[CCF-A]</span>.
+
+**Zhen Song**, Yu Gu, Jianzhong Qi, Zhigang Wang, Ge Yu
 
 
 # 🎖 Honors and Awards
