@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Zhen Song (宋振), Associate Professor at Shandong University. I received my Bachelor's degree in Computer Science and Technology from Northeastern University in 2017, followed by a Master's degree in Computer Software and Theory in 2019. I then pursued my Ph.D. in Computer Science and Technology at Northeastern University under the supervision of Prof. Yu Gu ([谷峪](https://neugy123.github.io/)) in the research group led by Prof. Ge Yu (于戈) and obtained my doctoral degree in 2025. 
+Zhen Song (宋振), Associate Professor at Shandong University. I received my Bachelor's degree in Computer Science and Technology from Northeastern University in 2017, followed by a Master's degree in Computer Software and Theory in 2019. I then pursued my Ph.D. in Computer Science and Technology at Northeastern University under the supervision of Prof. Yu Gu ([谷峪](https://neugy123.github.io)) in the research group led by Prof. Ge Yu (于戈) and obtained my doctoral degree in 2025. 
 
 From November 2022 to November 2023, I was a visiting researcher at Aalborg University, Denmark, where I worked under the supervision of Prof. Tianyi Li (李天义) in the research group of Prof. Christian S. Jensen. 
 
