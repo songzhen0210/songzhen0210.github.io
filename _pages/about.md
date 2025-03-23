@@ -41,7 +41,7 @@ Currently, I am collaborating with Prof. Lizhen Cui \([崔立真](https://facult
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2025</div><img src='images/sigmod2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training](https://2025.sigmod.org/sigmod_papers.shtml) <span style="color: red;">[CCF-A]</span>
+[SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training](https://2025.sigmod.org/sigmod_papers.shtml), SIGMOD 2025 <span style="color: red;">[CCF-A]</span>
 
 **Zhen Song**, Yu Gu, Tianyi Li, Yushuai Li, Qing Sun, Yanfeng Zhang, Christian S. Jensen, Ge Yu
 </div>
@@ -50,14 +50,14 @@ Currently, I am collaborating with Prof. Lizhen Cui \([崔立真](https://facult
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2024</div><img src='images/vldb2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DynaHB: A Communication-Avoiding Asynchronous Distributed Framework with Hybrid Batches for Dynamic GNN Training](https://www.vldb.org/pvldb/vol17/p3388-song.pdf) <span style="color: red;">[CCF-A]</span>
+[DynaHB: A Communication-Avoiding Asynchronous Distributed Framework with Hybrid Batches for Dynamic GNN Training](https://www.vldb.org/pvldb/vol17/p3388-song.pdf), SIGMOD 2024, <span style="color: red;">[CCF-A]</span>
 
 **Zhen Song**, Yu Gu, Qing Sun, Tianyi Li, Yanfeng Zhang, Yushuai Li, Christian S. Jensen, Ge Yu
 </div>
 </div>
 
 
-- [ADGNN: Towards Scalable GNN Training with Aggregation-Difference Aware Sampling](https://dl.acm.org/doi/10.1145/3626716), <span style="color: red;">[CCF-A]</span>
+- [ADGNN: Towards Scalable GNN Training with Aggregation-Difference Aware Sampling](https://dl.acm.org/doi/10.1145/3626716), SIGMOD 2024, <span style="color: red;"> [CCF-A]</span>
 
 **Zhen Song**, Yu Gu, Tianyi Li, Qing Sun, Yanfeng Zhang, Christian S. Jensen, Ge Yu
 
